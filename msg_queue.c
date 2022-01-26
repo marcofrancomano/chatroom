@@ -1,3 +1,5 @@
+//  Author:         (c) 2021 Bonifacio Marco Francomano
+
 #include <stdio.h>
 #include <semaphore.h>
 
