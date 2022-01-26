@@ -1,3 +1,5 @@
+//  Author:         (c) 2021 Bonifacio Marco Francomano
+
 #include <string.h>
 #include <sys/socket.h>
 
