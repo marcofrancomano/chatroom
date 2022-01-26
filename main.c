@@ -1,3 +1,6 @@
+
+//  Author:         (c) 2021 Bonifacio Marco Francomano
+
 #include <errno.h>
 #include <pthread.h>
 #include <stdlib.h>
