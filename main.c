@@ -1,6 +1,6 @@
 
-// Exercise Implemented by:         (c) 2021 Bonifacio Marco Francomano
-//Code ownership: Riccardo Lazzaretti
+// Exercise Implemented by: Bonifacio Marco Francomano (2021)
+//Code: Sapienza, Sistemi di calcolo 2
 
 #include <errno.h>
 #include <pthread.h>
