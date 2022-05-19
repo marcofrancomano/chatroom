@@ -1,5 +1,6 @@
 
-//  Author:         (c) 2021 Bonifacio Marco Francomano
+// Exercise Implemented by:         (c) 2021 Bonifacio Marco Francomano
+//Code ownership: Riccardo Lazzaretti
 
 #include <errno.h>
 #include <pthread.h>
