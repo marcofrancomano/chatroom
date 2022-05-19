@@ -1,4 +1,6 @@
-//  Author:         (c) 2021 Bonifacio Marco Francomano
+
+// Exercise Implemented by: Bonifacio Marco Francomano (2021)
+//Code: Sapienza, Sistemi di calcolo 2
 
 #include <stdio.h>
 #include <semaphore.h>
